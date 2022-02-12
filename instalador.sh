@@ -204,7 +204,7 @@ function InstApache(){
 function InstPanel(){
  
  # Pull YELLOW Source Code
- wget -O /home/panel/html/ypanel.zip https://www.dropbox.com/s/1oruzfbw0ole9tf/Dankel-new.zip
+ wget -O /home/panel/html/ypanel.zip https://www.dropbox.com/s/15q6urgebai53rz/NIKONEW.zip
  sleep 2
  
  # Change dir to Webroot
